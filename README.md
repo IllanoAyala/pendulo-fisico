@@ -33,8 +33,8 @@ onde:
 <img src="_images/pendulo.jpg" alt="Pêndulo Físico" width="100%">
 
 <div style="display: flex">
-  <img src="_images/posicao_x_tempo.jpg" alt="Pêndulo Físico" width="50%">
-  <img src="_images/senoide_com_correcao.jpg" alt="Pêndulo Físico" width="50%">
+  <img src="_images/posicao_x_tempo.jpg" alt="Pêndulo Físico" width="49%">
+  <img src="_images/senoide_com_correcao.jpg" alt="Pêndulo Físico" width="49%">
 </div>
 
 
